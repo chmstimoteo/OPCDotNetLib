@@ -305,7 +305,7 @@ namespace OPC.Data
             }
             catch(Exception e)
             {
-                // Culpa de Carlos.
+                
             }
         }
 
